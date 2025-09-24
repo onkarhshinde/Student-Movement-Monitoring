@@ -11,10 +11,9 @@ This platform provides:
 * **Demographic insights** (year, gender, hostel, stream, etc.)
 * **Live monitoring** with headcount and recent activity
 
----
-**Demo Video**
-
-https://drive.google.com/file/d/18zhf3fuYR6_WcU_hZ6Fcosrs3iNr7Lbm/view?usp=drive_link
+## Demo Video
+Click this link for a complete working demo video of the app: 
+[demo_video](https://drive.google.com/file/d/18zhf3fuYR6_WcU_hZ6Fcosrs3iNr7Lbm/view?usp=drive_link)
 
 ---
 
