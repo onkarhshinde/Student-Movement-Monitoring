@@ -12,6 +12,11 @@ This platform provides:
 * **Live monitoring** with headcount and recent activity
 
 ---
+**Demo Video**
+
+https://drive.google.com/file/d/18zhf3fuYR6_WcU_hZ6Fcosrs3iNr7Lbm/view?usp=drive_link
+
+---
 
 ## 🏗️ System Architecture
 
